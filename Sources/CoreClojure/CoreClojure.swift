@@ -1,3 +1,3 @@
 struct CoreClojure {
-    var text = "Hello, World!"
+    var text = "Test"
 }
