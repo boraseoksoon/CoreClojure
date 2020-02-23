@@ -1,2 +1,3 @@
 # CoreClojure
-Clojure stdlib implementation written in and for Swift
+
+A description of this package.
